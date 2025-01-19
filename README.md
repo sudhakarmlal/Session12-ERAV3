@@ -1,6 +1,9 @@
 # Session12-ERAV3
 The complete logs can be found at:
 
+https://github.com/sudhakarmlal/Session12-ERAV3/blob/main/traininglogs.txt
+
+
 Sample logs:
 step 0, loss: 10.9502, avg_loss: 10.9502, best_loss: 10.9502, lr: 2.00e-05, time/batch: 0.000s
 
