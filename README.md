@@ -1,4 +1,9 @@
 # Session12-ERAV3
+
+The Hugging face app can be found at:
+https://huggingface.co/spaces/sudhakar272/shakespheretextgenerator
+
+
 The complete logs can be found at:
 
 https://github.com/sudhakarmlal/Session12-ERAV3/blob/main/traininglogs.txt
