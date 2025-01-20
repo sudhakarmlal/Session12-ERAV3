@@ -1,23 +1,23 @@
+using device: cuda
+Total Parameters: 124,439,808
+Trainable Parameters: 124,439,808
+Model Size: 474.70 MB
+
+Size by component:
+transformer: 474.70 MB
+loaded 338025 tokens
+1 epoch = 165 batches
+Training for 20000 steps
 step 0, loss: 10.9502, avg_loss: 10.9502, best_loss: 10.9502, lr: 2.00e-05, time/batch: 0.000s
-
 step 100, loss: 7.3847, avg_loss: 8.3567, best_loss: 7.3148, lr: 2.11e-05, time/batch: 0.493s
-
 step 200, loss: 6.1754, avg_loss: 6.8560, best_loss: 6.1491, lr: 2.45e-05, time/batch: 0.525s
-
 step 300, loss: 5.9571, avg_loss: 6.2103, best_loss: 5.6249, lr: 2.99e-05, time/batch: 0.518s
-
 step 400, loss: 5.5309, avg_loss: 5.8262, best_loss: 5.3845, lr: 3.73e-05, time/batch: 0.522s
-
 step 500, loss: 5.6939, avg_loss: 5.6099, best_loss: 4.8133, lr: 4.65e-05, time/batch: 0.523s
-
 step 600, loss: 5.5644, avg_loss: 5.3130, best_loss: 4.7059, lr: 5.72e-05, time/batch: 0.525s
-
 step 700, loss: 5.1696, avg_loss: 5.1070, best_loss: 4.2967, lr: 6.93e-05, time/batch: 0.525s
-
 step 800, loss: 4.3263, avg_loss: 4.9632, best_loss: 4.2546, lr: 8.24e-05, time/batch: 0.524s
-
 step 900, loss: 5.0162, avg_loss: 4.7396, best_loss: 3.9474, lr: 9.61e-05, time/batch: 0.524s
-
 step 1000, loss: 4.3281, avg_loss: 4.6276, best_loss: 3.6839, lr: 1.10e-04, time/batch: 0.524s
 step 1100, loss: 4.6886, avg_loss: 4.4523, best_loss: 3.6839, lr: 1.24e-04, time/batch: 0.524s
 step 1200, loss: 4.3452, avg_loss: 4.3065, best_loss: 3.4548, lr: 1.38e-04, time/batch: 0.525s
@@ -65,3 +65,21 @@ step 5300, loss: 0.1573, avg_loss: 0.1774, best_loss: 0.1165, lr: 1.84e-04, time
 step 5400, loss: 0.1770, avg_loss: 0.1656, best_loss: 0.1120, lr: 1.83e-04, time/batch: 0.526s
 step 5500, loss: 0.1777, avg_loss: 0.1617, best_loss: 0.1120, lr: 1.82e-04, time/batch: 0.526s
 step 5600, loss: 0.1426, avg_loss: 0.1575, best_loss: 0.1120, lr: 1.81e-04, time/batch: 0.526s
+step 5700, loss: 0.1262, avg_loss: 0.1426, best_loss: 0.1105, lr: 1.80e-04, time/batch: 0.526s
+step 5800, loss: 0.1084, avg_loss: 0.1401, best_loss: 0.0899, lr: 1.79e-04, time/batch: 0.526s
+step 5900, loss: 0.1477, avg_loss: 0.1333, best_loss: 0.0855, lr: 1.78e-04, time/batch: 0.526s
+step 6000, loss: 0.1111, avg_loss: 0.1287, best_loss: 0.0855, lr: 1.77e-04, time/batch: 0.526s
+step 6100, loss: 0.1590, avg_loss: 0.1276, best_loss: 0.0855, lr: 1.75e-04, time/batch: 0.526s
+step 6200, loss: 0.1100, avg_loss: 0.1192, best_loss: 0.0855, lr: 1.74e-04, time/batch: 0.526s
+step 6300, loss: 0.1254, avg_loss: 0.1192, best_loss: 0.0853, lr: 1.73e-04, time/batch: 0.526s
+step 6400, loss: 0.1046, avg_loss: 0.1132, best_loss: 0.0853, lr: 1.72e-04, time/batch: 0.526s
+step 6500, loss: 0.1156, avg_loss: 0.1087, best_loss: 0.0810, lr: 1.71e-04, time/batch: 0.526s
+step 6600, loss: 0.1478, avg_loss: 0.1064, best_loss: 0.0743, lr: 1.70e-04, time/batch: 0.526s
+step 6700, loss: 0.0738, avg_loss: 0.1042, best_loss: 0.0673, lr: 1.68e-04, time/batch: 0.526s
+step 6800, loss: 0.1058, avg_loss: 0.1035, best_loss: 0.0672, lr: 1.67e-04, time/batch: 0.525s
+
+Reached target average loss of 0.099990 at step 6820
+Final loss: 0.086936
+Best loss: 0.067244
+Final average loss: 0.099990
+Model saved to trained_model.pt
